@@ -1,0 +1,54 @@
+{
+  "Presenter": {
+    "Columns": [], 
+    "HasGraph": true, 
+    "HasTable": true, 
+    "Query": {
+      "Algorithms": [
+        "FloydRivest", 
+        "MedianOfMedians", 
+        "QuickSelect", 
+        "SortMedian"
+      ], 
+      "ComputerID": "", 
+      "Count": "0", 
+      "Filter": [
+        ""
+      ], 
+      "GroupBy": [
+        "N"
+      ], 
+      "Indicators": [
+        "*EM"
+      ], 
+      "Parameters": [
+        "N"
+      ], 
+      "SortBy": [
+        ""
+      ], 
+      "TestSets": [
+        "TestSet2"
+      ]
+    }, 
+    "ShortTitle": "BigNRand", 
+    "Title": "Time complexity with random data", 
+    "categoryLabels": false, 
+    "graphType": "line", 
+    "gridX": true, 
+    "gridY": true, 
+    "hasGraph": true, 
+    "hasTable": true, 
+    "logScale": false, 
+    "manData": {}, 
+    "name": "All", 
+    "subchart": false, 
+    "xAxis": "N", 
+    "xAxisTitle": "N", 
+    "yAxes": [
+      "*.Tmin"
+    ], 
+    "yAxisTitle": "time (ms)", 
+    "zoom": true
+  }
+}

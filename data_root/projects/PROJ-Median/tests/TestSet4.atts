@@ -1,0 +1,13 @@
+{
+  "TestSet": {
+    "Name"             : "TestSet4",
+
+    "ShortName"        : "TS4",
+    "Description"      : "Test cases of big size (from 500.000 to 2.500.000)",
+    "N"                : "25",
+    "TestRepeat"       : "10",
+    "TimeLimit"        : "20",
+
+    "TestSetDescHTML"  : "TestSet4.html"
+  }
+}

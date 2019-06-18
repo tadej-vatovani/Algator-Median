@@ -1,0 +1,17 @@
+{
+  "Algorithm" : {	
+
+   "Name"           : "SortMedian",
+
+   "Author"         : "tadej",
+   "Date"           : "06, 2019",
+
+   "ShortName"      : "SortMedian",             
+   "Description"    : "A simple median selection algorithm implemented by sorting an array",
+   
+   
+   "Language"       : "Java"
+   
+
+  }
+} 

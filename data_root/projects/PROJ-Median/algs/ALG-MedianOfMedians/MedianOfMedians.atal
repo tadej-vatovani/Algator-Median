@@ -1,0 +1,19 @@
+{
+  "Algorithm" : {	
+
+   "Name"           : "MedianOfMedians",
+
+   "Author"         : "tadej",
+   "Date"           : "06, 2019",
+
+   "ShortName"      : "MedianOfMedians",             
+   "Description"    : "A selection algorithm based on the median of medians method",
+
+   "Presenters"     : [    
+		"SelectAvg",
+		"SelectWorst"
+	],
+   
+   "Language"       : "Java"
+  }
+} 

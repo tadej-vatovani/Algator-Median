@@ -1,0 +1,53 @@
+{
+  "Presenter": {
+    "Columns": [], 
+    "HasGraph": true, 
+    "HasTable": true, 
+    "Query": {
+      "Algorithms": [
+        "FloydRivest", 
+        "MedianOfMedians", 
+        "QuickSelect"
+      ], 
+      "ComputerID": "", 
+      "Count": "0", 
+      "Filter": [
+        ""
+      ], 
+      "GroupBy": [
+        "N"
+      ], 
+      "Indicators": [
+        "*EM"
+      ], 
+      "Parameters": [
+        "N"
+      ], 
+      "SortBy": [
+        ""
+      ], 
+      "TestSets": [
+        "TestSet3"
+      ]
+    }, 
+    "ShortTitle": "WorstQuickselectEsque", 
+    "Title": "Worst case time complexity of quickselect-esque algorithms", 
+    "categoryLabels": false, 
+    "graphType": "line", 
+    "gridX": true, 
+    "gridY": true, 
+    "hasGraph": true, 
+    "hasTable": true, 
+    "logScale": false, 
+    "manData": {}, 
+    "name": "SelectWorst", 
+    "subchart": false, 
+    "xAxis": "N", 
+    "xAxisTitle": "N", 
+    "yAxes": [
+      "*.Tavg"
+    ], 
+    "yAxisTitle": "Time (ms)", 
+    "zoom": true
+  }
+}

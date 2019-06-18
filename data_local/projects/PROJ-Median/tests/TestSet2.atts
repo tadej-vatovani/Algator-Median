@@ -1,0 +1,13 @@
+{
+  "TestSet": {
+    "Name"             : "TestSet2",
+
+    "ShortName"        : "TS2",
+    "Description"      : "Test cases of middle size (from 1000 to 30.000)",
+    "N"                : "150",
+    "TestRepeat"       : "10",
+    "TimeLimit"        : "5",
+
+    "TestSetDescHTML"  : "TestSet2.html"
+  }
+}

@@ -1,0 +1,22 @@
+<html>
+<p>
+The median of medians is an approximate median-selection algorithm that helps building an asymptotically optimal, exact general selection algorithm (especially in the sense of worst-case complexity), by producing good pivot elements. 
+</p>
+<p>
+The median of medians operates similiary to quickselect, choosing one element as a pivot and partitioning the data in two based on the pivot. It then recurses into one side – the side with the element it is searching for. Where it differs from Quickselect is the way it chooses the pivot, thereby having a better worst-case performance but worse average performance as it's constants are bigger due to higher complexity when choosing a pivot. 
+</p>
+</p>
+ <p>
+	<b>Time complexity: </b> It has an expected running time of O(n) in both the worst and best case. 
+</p> 	
+
+<br>
+<p>
+Reference:   
+<ul>
+  <li>Blum, M.; Floyd, R. W.; Pratt, V. R.; Rivest, R. L.; Tarjan, R. E. <a href="http://people.csail.mit.edu/rivest/pubs/BFPRT73.pdf">"Time bounds for selection" </a> Journal of Computer and System Sciences 7: 448–461</li>
+  <li><a href="https://en.wikipedia.org/wiki/Median_of_medians">Wikipedija - Median of medians</a></li>
+</ul>
+</p>
+
+</html>

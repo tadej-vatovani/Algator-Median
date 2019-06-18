@@ -1,0 +1,28 @@
+{"Project": {
+  "Name": "Median",
+  "Description": "Median selection algorithms",
+  "Author": "tadej",
+  "Date": "06, 2019",
+  "Algorithms": [
+    "SortMedian",
+    "FloydRivest",
+    "MedianOfMedians",
+    "QuickSelect"
+  ],
+  "TestSets": [
+    "TestSet0",
+    "TestSet1",
+    "TestSet2",
+    "TestSet3",
+    "TestSet4"
+  ],
+  "ProjectJARs": [],
+  "ProjPresenters": [],
+  "AlgPresenters": [],
+  "MainProjPresenters": [
+	"SmallNAll",
+    "All",
+    "BigNAll"
+  ],
+  "MainAlgPresenters": ["SelectWorst"]
+}}

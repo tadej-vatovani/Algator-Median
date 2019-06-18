@@ -1,0 +1,19 @@
+{
+  "Algorithm" : {	
+
+   "Name"           : "FloydRivest",
+
+   "Author"         : "tadej",
+   "Date"           : "06, 2018",
+
+   "ShortName"      : "FloydRivest",             
+   "Description"    : "The Floyd and Rivest selection algorithm",
+
+  "Presenters": [
+  	"SelectAvg",
+    "SelectWorst"
+  ],
+  
+   "Language"       : "Java"
+  }
+} 

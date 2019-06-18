@@ -1,0 +1,22 @@
+{
+  "Algorithm" : {	
+
+   "Name"           : "QuickSelect",
+   "ShortName"      : "QuickSelect",             
+   "Description"    : "A selection algorithm similiar to Quicksort",
+   "Author"         : "tadej",
+   "Date"           : "06, 2019",
+
+
+   "Language"       : "Java",
+  
+   "Presenters"     : [    
+		"SelectAvg",
+		"SelectWorst"
+	],
+
+   "AlgorithmDescHTML" : "algorithm.html",
+   "AlgorithmRefHTML"  : "references.html"
+
+  }
+} 

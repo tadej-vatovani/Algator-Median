@@ -1,0 +1,13 @@
+{
+  "TestSet": {
+    "Name"             : "TestSet4",
+
+    "ShortName"        : "TS4",
+    "Description"      : "Test set containing sorted arrays",
+    "N"                : "5",
+    "TestRepeat"       : "10",
+    "TimeLimit"        : "20",
+
+    "TestSetDescHTML"  : "TestSet4.html"
+  }
+}
